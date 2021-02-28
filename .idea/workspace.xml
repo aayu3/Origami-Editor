@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2bb1fdfd-28a7-4fdc-a2af-ee9b7143d37f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="graphdrawingapp" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RLuMHEvxoMJ3KyxLvaKIcGgxbL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/JS" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/JS" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/packages" />
+      <recent name="$PROJECT_DIR$/Images" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.indexd3.html">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/graphdrawingapp/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="indexd3.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/graphdrawingapp/indexd3.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="canvasD3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS/canvasD3.js" working-dir="$PROJECT_DIR$/JS">
+      <method v="2" />
+    </configuration>
+    <configuration name="canvas.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS/canvas.js" working-dir="$PROJECT_DIR$/JS">
+      <method v="2" />
+    </configuration>
+    <configuration name="vertexTesterD3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS/vertexTesterD3.js" working-dir="$PROJECT_DIR$/JS">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.indexd3.html" />
+        <item itemvalue="Node.js.vertexTesterD3.js" />
+        <item itemvalue="Node.js.canvasD3.js" />
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="Node.js.canvas.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2bb1fdfd-28a7-4fdc-a2af-ee9b7143d37f" name="Default Changelist" comment="" />
+      <created>1568264785655</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568264785655</updated>
+      <workItem from="1568264787202" duration="1584000" />
+      <workItem from="1568481336826" duration="434000" />
+      <workItem from="1569256644531" duration="1645000" />
+      <workItem from="1569458479335" duration="19000" />
+      <workItem from="1569458531000" duration="61000" />
+      <workItem from="1569458654667" duration="16000" />
+      <workItem from="1569475690367" duration="1840000" />
+      <workItem from="1569516090543" duration="3353000" />
+      <workItem from="1569946436574" duration="210000" />
+      <workItem from="1570063956487" duration="7600000" />
+      <workItem from="1570119441496" duration="6802000" />
+      <workItem from="1570147782982" duration="514000" />
+      <workItem from="1570203962681" duration="4034000" />
+      <workItem from="1570470366058" duration="121000" />
+      <workItem from="1570725462785" duration="420000" />
+      <workItem from="1570996314014" duration="14960000" />
+      <workItem from="1571034969807" duration="84000" />
+      <workItem from="1571035217771" duration="235000" />
+      <workItem from="1571101696700" duration="245000" />
+      <workItem from="1571762494131" duration="280000" />
+      <workItem from="1571791229681" duration="304000" />
+      <workItem from="1572201829822" duration="860000" />
+      <workItem from="1573319059963" duration="467000" />
+      <workItem from="1574027140691" duration="1579000" />
+      <workItem from="1574212406652" duration="496000" />
+      <workItem from="1574278298949" duration="592000" />
+      <workItem from="1575522441714" duration="5130000" />
+      <workItem from="1575603279321" duration="10148000" />
+      <workItem from="1575943586920" duration="2408000" />
+      <workItem from="1576220610309" duration="23245000" />
+      <workItem from="1577690119843" duration="26000" />
+      <workItem from="1577691265465" duration="4000" />
+      <workItem from="1583300524208" duration="189000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
